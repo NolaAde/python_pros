@@ -3,4 +3,4 @@ total = 0
 for num in numbers:
     total += num
 
-    print("Sum of numbers:", total)
+print("Sum of numbers:", total)

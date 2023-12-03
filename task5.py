@@ -1,4 +1,4 @@
-sentence = input("Enter a sentence:")
+sentence = input("Enter a sentence: ")
 words = sentence.split()
 for word in words:
-    print(f"{word}: len{word}")
+    print(f"{word}: {len(word)}")
